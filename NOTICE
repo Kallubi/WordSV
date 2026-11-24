@@ -1,0 +1,11 @@
+WordSV
+Copyright 2026 The Kallubi Authors
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+The name "WordSV", the name "Kallubi", and any associated logos are NOT
+licensed under the Apache License. See TRADEMARKS.md.
+
+This repository currently contains planning documents and a draft
+specification only. It does not yet ship third-party runtime libraries.
+When application code is added, third-party notices will be listed here.
