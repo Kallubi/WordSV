@@ -1,0 +1,15 @@
+# Local and editor noise
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*~
+.idea/
+.vscode/
+.direnv/
+
+# Future build artefacts (no application code in this scaffold yet)
+node_modules/
+dist/
+coverage/
+.cache/
